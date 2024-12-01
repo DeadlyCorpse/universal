@@ -1,6 +1,4 @@
---[[
-		THIS IS JUST ARCEUS X AIMMBOT RENAMED        
-]]
+--[[ THIS IS JUST ARCEUS X AIMMBOT RENAMED ]]
 
 local Script_Title = "GrimEx <font color=\"rgb(255, 0, 0)\">|</font> Aimbot"
 
