@@ -1,11 +1,5 @@
 --[[
-		AIMBOT SCRIPT
-
-		Remade and optimized by Riky47#3355 for GrimEx
-		# spdmteam.com
-		
-		Edited and fixed by AZY#0348 for Fluxus / Hydrogen Compatibility
-        # Chillz and Maik
+		THIS IS JUST ARCEUS X AIMMBOT RENAMED        
 ]]
 
 local Script_Title = "GrimEx <font color=\"rgb(255, 0, 0)\">|</font> Aimbot"
